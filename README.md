@@ -1,16 +1,21 @@
-## Hi there 👋
+# Data Things
 
-<!--
-**rahulgupta8/rahulgupta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Experienced Lead Data Engineer with over a decade of expertise in designing, implementing, and optimizing complex data infrastructure solutions.
 
-Here are some ideas to get you started:
+## 🏆 Professional Expertise
+- **Data Architecture Design**: Specializing in scalable, high-performance data ecosystems
+- **Cloud Data Solutions**: Extensive experience with AWS platforms
+- **Data Technologies**: Mastery of Apache Spark, snowflake, Kafka, dbt, Fivetran, Airflow and modern data engineering tools
+- **Data Pipeline Development**: End-to-end data workflow optimization and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-brightgreen)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
+
+## 🔍 Approach
+*"Data is not just about numbers. It's about telling a story that drives impactful business decisions."*
+
+---
