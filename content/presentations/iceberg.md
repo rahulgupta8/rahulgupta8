@@ -11,6 +11,8 @@ theme:
       right: "{current_slide} / {total_slides}"
 ---
 
+<!--MARKER-->
+
 # whoami - Rahul
 
 <!-- column_layout: [2, 1] -->
