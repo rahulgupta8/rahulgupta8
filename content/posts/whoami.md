@@ -1,6 +1,6 @@
 ---
 title: whoami
-description: Who is this "Rahul" guy anyway
+description:
 author: Rahul Gupta
 cover: ""
 tags: ["data", "brand"]
